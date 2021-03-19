@@ -1,0 +1,12 @@
+{
+  "name": "voiceover-next-image",
+  "version": "1.0.0",
+  "description": "Test repo to reproduce issue",
+  "author": "Shanly Suepaul <shanly@myplanet.com>",
+  "license": "MIT",
+  "dependencies": {
+    "next": "^10.0.9",
+    "react": "^17.0.1",
+    "react-dom": "^17.0.1"
+  }
+}
